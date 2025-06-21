@@ -8,8 +8,8 @@
 body{
     background: rgba(51, 39, 39, 0.826);
     background-size: cover;
-    background-position: center;
-    background-repeat: repeat;
+/*     background-position: center; */
+    background-repeat:repeat;
     transition: background-image 0.5s ease-in-out;
     min-height: 23vh;
     background-image: url(logo5.jpg);
