@@ -316,7 +316,7 @@ body::before{
 
 
 /* for responsive ness in android */
-@media(max-width:750px){
+@media(max-width:770px){
     .app{
         padding:20px;
         margin:50px auto 0;
@@ -347,7 +347,7 @@ body::before{
     }
     /* for the logo */
     .logo{
-        width:70px;
+        width:93px;
     }
     /* for hamburger menu>>> */
     .nav-menu{
